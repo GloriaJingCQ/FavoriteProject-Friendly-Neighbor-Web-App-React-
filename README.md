@@ -1,9 +1,17 @@
-# Friendly-Neighbor
+# About the Project
 This is a Web application I completed in one hackathon with my teammates.
  We used **live share** to co-program.
  The Git link of the application is here: https://github.com/chrisyifanjin/BCSHack
+
+# Built with
+* JavaScript
+* React.js
+* HTML
+* CSS and CSS Bootstrap
+* Google Map API
+* User Authentication(Auth0)
   
-**Demo:**
+# Demo
    
 ![image](https://user-images.githubusercontent.com/87431812/170550179-26a91837-70e9-498d-947c-16ce1df5d350.png)
   
